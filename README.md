@@ -2,9 +2,11 @@
   
 ## Documentation  
 *   [Eaas Core](https://connect-eaas-core.readthedocs.io/en/latest/)  
+*   [Build and publish your extension](https://connect.cloudblue.com/community/developers/extensions/build-and-publish-connect-extensions/)  
+*   [DevOps module overview](https://connect.cloudblue.com/community/modules/devops/)  
   
 ## Example extensions  
-*   [Example extension we spoke on the session](https://github.com/Sainomori/eaas-ma-learning-ext)  
+*   [Example extension we spoke on the session](https://github.com/cloudblue/eaas-e2e-ma-mock)  
 *   [Telegram extension](https://github.com/cloudblue/connect-extension-telegram-notifications)  
 *   [Email extension](https://github.com/cloudblue/connect-extension-service-delivery-notifications)  
   

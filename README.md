@@ -5,7 +5,7 @@
 *   [Telegram extension](https://github.com/cloudblue/connect-extension-telegram-notifications)  
 *   [Email extension](https://github.com/cloudblue/connect-extension-service-delivery-notifications)  
   
-## Guiles
+## Guides
 *   [Step-by-step guide on how to create your own MA ext WITH CCLI](https://connect-eaas-core.readthedocs.io/en/docs/tutorials/quickstart/multi_account_installation/)
 *   [Step-by-step guide on how to create your own MA ext WITHOUT CCLI](https://connect-eaas-core.readthedocs.io/en/docs/tutorials/webapp/overview/)
 

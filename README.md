@@ -1,7 +1,3 @@
-# Welcome to Multi-account learning session  
-  
-At this page you will find all required learning materials  
-  
 ## Documentation  
 *   [Eaas Core](https://connect-eaas-core.readthedocs.io/en/latest/)  
   
